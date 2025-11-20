@@ -1,6 +1,6 @@
-<div style="text-align:center">
-  <img src="assets/logo.png" alt="ProOp" width="150x">
-</div> <br>
+<p align="center">
+  <img src="assets/logo.png" alt="ProOp" width="250x">
+</p>
 
 > [!NOTE]
 > Este projeto faz parte da iniciativa Kickoff, focada na aplicação de metodologias de Design Thinking para a concepção e prototipagem de uma solução inovadora na área de Saúde e Bem-Estar.
@@ -17,7 +17,9 @@ A plataforma de gestão de risco cirúrgico. Centralizamos a comunicação e aut
 o acompanhamento com checklists de cuidados personalizados, monitorando o paciente em 
 tempo real para evitar falhas, atrasos e complicações no processo.
 
-![Preview](assets/preview.png)
+<p align="left">
+  <img src="assets/preview.png" alt="ProOp" width="300">
+</p>
 
 ## 🌍 Acesso ao protótipo
 
