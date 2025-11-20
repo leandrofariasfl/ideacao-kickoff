@@ -1,4 +1,6 @@
-<img src="assets/aprovadinho/aprovadinho_bot_round.png" alt="ProOp" width="150x"/> <br>
+<div style="text-align:center">
+  <img src="assets/logo.png" alt="ProOp" width="150x">
+</div> <br>
 > [!NOTE]
 > Este projeto faz parte da iniciativa Kickoff, focada na aplicação de metodologias de Design Thinking para a concepção e prototipagem de uma solução inovadora na área de Saúde e Bem-Estar.
 
